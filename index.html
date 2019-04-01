@@ -59,6 +59,14 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-131200178-1');
+
+  function onSignIn(googleUser) {
+        var profile = googleUser.getBasicProfile();
+            console.log( profile());
+
+        var id_token = googleUser.getAuthResponse().id_token;
+        console.log("ID Token: " + id_token);
+      }
 </script>
 
 </body>
