@@ -7,7 +7,7 @@ background-color: #DBDBE6;
 
 #header {
     padding: 30px 0;
-    height: 10vh;
+    height: 12vh;
     position: fixed;
     left: 0;
     top: 0;
@@ -206,9 +206,6 @@ body.mobile-nav-active #mobile-nav {
     display: none;
 }
 
-#mobile-nav-toggle {
-    display: inline;
-}
 }
 body {
     background: #e0e0e0
@@ -221,7 +218,7 @@ div.alignright {
     text-align: right;
 }
 div.bigmargin {
-    margin-top: 11vh;
+    margin-top: 14vh;
 }
 
 .nounderline {
