@@ -89,7 +89,7 @@ background-color: #DBDBE6;
 
 .nav-menu li:hover>a,
 .nav-menu>.menu-active>a {
-    color: grey;
+    color: black;
 }
 
 .nav-menu a {
