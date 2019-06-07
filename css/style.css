@@ -5,28 +5,6 @@ background-color: #DBDBE6;
 
 636388 */
 
-div.margin {
-    margin-top: 3%; 
-}
-
-div.alignright {
-    text-align: right;
-}
-div.bigmargin {
-    margin-top: 11vh;
-}
-
-.nounderline {
-    text-decoration: none !important
-  }
-
-
-#header.header-scrolled {
-    background: #fff;
-    padding: 20px 0;
-    height: 72px;
-    transition: all 0.5s;
-}
 #header {
     padding: 30px 0;
     height: 10vh;
@@ -234,4 +212,26 @@ body.mobile-nav-active #mobile-nav {
 }
 body {
     background: #e0e0e0
+}
+div.margin {
+    margin-top: 3%; 
+}
+
+div.alignright {
+    text-align: right;
+}
+div.bigmargin {
+    margin-top: 11vh;
+}
+
+.nounderline {
+    text-decoration: none !important
+  }
+
+
+#header.header-scrolled {
+    background: #fff;
+    padding: 20px 0;
+    height: 72px;
+    transition: all 0.5s;
 }
